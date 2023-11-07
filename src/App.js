@@ -9,6 +9,9 @@ function App() {
         <p>Weather App</p>
         <WeatherSearch />
       </header>
+      <a href="https://github.com/nahafatmaa/weather-react" Open-source code>
+        By Naha Fatma
+      </a>
     </div>
   );
 }
